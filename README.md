@@ -41,6 +41,7 @@ Dropped rows where the date couldn't be parsed.
 After dropping rows, the DataFrame index was reset for consistency.
 
  Final Result
+
 Cleaned rows: 8,795
 
 Data is now:
